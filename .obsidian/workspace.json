@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "3dce00ed715315a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e214b19fefef4d4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e5304c232fbf993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "facts/us/foreign-interventions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "foreign-interventions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0e29144f4481fe8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb27514e26ae2aae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2821dd855456dcb4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6ae0838e6dc8916a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "793a99530129370e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6433c8d2747ab301",
+    "type": "split",
+    "children": [
+      {
+        "id": "14a8c980b5f128e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b8be7774f6a9131",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "facts/us/foreign-interventions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for foreign-interventions"
+            }
+          },
+          {
+            "id": "34665b93859b8ad1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "facts/us/foreign-interventions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from foreign-interventions"
+            }
+          },
+          {
+            "id": "fc1f4fe7cff1d861",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9f26099d40943c19",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b8b2a21f3c19d7cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "facts/us/foreign-interventions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of foreign-interventions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2821dd855456dcb4",
+  "lastOpenFiles": [
+    "facts/us/global-power-shift-2025.md",
+    "facts/us/global-allied-reactions-2025.md",
+    "facts/us/trump-second-term-2025.md",
+    "facts/us/project-2025.md",
+    "facts/us/trump-out-of-office-2021-2025.md",
+    "facts/us/trump-2020-election-jan6.md",
+    "facts/us/trump-first-term-2019-2020.md",
+    "facts/us/trump-first-term-2017-2018.md",
+    "facts/regimes/cold-war/china-deng-xiaoping.md",
+    "facts/regimes/post-cold-war/philippines-duterte.md",
+    "facts/regimes/post-cold-war/croatia-tudjman.md",
+    "facts/us/cold-war-domestic-repression.md",
+    "facts/regimes/post-cold-war/tunisia-ben-ali.md",
+    "facts/regimes/post-cold-war/liberia-taylor.md",
+    "facts/regimes/post-cold-war/tajikistan-rahmon.md",
+    "facts/regimes/post-cold-war/north-korea-kim-jong-il.md",
+    "facts/regimes/post-cold-war/azerbaijan-aliyev.md",
+    "facts/us/thematic-deep-dives.md",
+    "facts/us/21st-century.md",
+    "facts/us/late-20th-century.md",
+    "facts/us/civil-rights-full-history.md",
+    "facts/us/20th-century-wars-empire.md",
+    "facts/regimes/post-cold-war/cambodia-hun-sen.md",
+    "facts/regimes/cold-war/south-korea-chun.md",
+    "facts/regimes/cold-war/egypt-mubarak.md",
+    "facts/regimes/post-cold-war/kazakhstan-nazarbayev.md",
+    "index.md.tmp.55973.1767751627956",
+    "facts/regimes/MASTER-LIST.md.tmp.55973.1767751615036",
+    "agents/subagents.py.tmp.55492.1767727394177",
+    "agents/subagents.py.tmp.55492.1767727382508",
+    "agents/cli.py.tmp.55492.1767727219714",
+    "agents/cli.py.tmp.55492.1767727210006",
+    "agents/cli.py.tmp.55492.1767727205053",
+    "agents/historian.py.tmp.55492.1767727171849",
+    "agents/historian.py.tmp.55492.1767727156175",
+    "agents/requirements.txt"
+  ]
+}
