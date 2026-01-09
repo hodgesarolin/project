@@ -292,6 +292,63 @@ On January 20, 2025, Trump rescinded the Biden-era "protected areas" policy, all
 - July 2025: Additional denominations sued over house of worship raids
 - Court order currently protects approximately **1,400 places of worship across 36 states**
 
+### ICE Killing of Renee Nicole Good (January 7, 2026)
+
+#### Background
+On January 6, 2026, DHS announced what it called the largest immigration enforcement operation ever carried out, sending **2,000 agents** to the Minneapolis–Saint Paul metro area. The "surge" was triggered by a viral video from a right-wing YouTuber alleging Somali-run daycare centers were committing fraud. The Minnesota Department of Children, Youth and Families investigated and found children present at all but one facility that closed in 2022.
+
+#### The Shooting
+On January 7, 2026, ICE agent shot **Renee Nicole Good**, a 37-year-old U.S. citizen, mother, and poet, in the head, killing her instantly.
+
+| Detail | Information |
+|--------|-------------|
+| Location | Portland Avenue between East 33rd and 34th Streets, Central neighborhood, Minneapolis |
+| Victim | Renee Nicole Good, 37, U.S. citizen |
+| Agents | 4 ICE agents in 2 vehicles (Nissan Titan and Chevrolet Suburban) |
+| Victim's Vehicle | Red Honda Pilot with Missouri plates |
+
+#### Video Evidence
+Videos show:
+- Agents surrounded Good's vehicle, which was stopped sideways in the road
+- Agents ordered her to exit
+- As one agent grabbed the driver's side door, Good reversed then drove forward
+- One agent near the front fired three shots
+- Vehicle continued and crashed into a parked Toyota Corolla
+
+#### Disputed Narratives
+
+| Source | Claim |
+|--------|-------|
+| DHS/Kristi Noem | Good was "weaponizing" her car to run over an agent; called it "domestic terrorism" |
+| Gov. Tim Walz | After watching video: warned people not to believe "the propaganda machine" |
+| Mayor Jacob Frey | "Having seen the video [myself], I want to tell everybody directly that is bullshit" and "To ICE, get the fuck out of Minneapolis" |
+| Good's mother | Daughter was "not part of anything like that at all" (referring to protests) |
+
+#### Who Was Renee Good
+- 37-year-old U.S. citizen
+- Mother (had a child with late husband Timmy Ray Macklin Jr., who died 2023)
+- Poet; graduated Old Dominion University 2020 with English degree
+- Lived in Minneapolis with her partner blocks from where she was killed
+- Minneapolis City Council said she was out "caring for her neighbors" when killed
+- Her mother described her as "one of the kindest people I've ever known"
+
+#### Aftermath
+- Thousands attended vigils
+- Minneapolis public schools closed rest of week "due to safety concerns"
+- Protests at Whipple Federal Building
+- Gov. Walz preparing National Guard
+- Minneapolis City Council demanded ICE leave the city
+- No agent identified or arrested
+- ODU President called it "yet another clear example that fear and violence have sadly become commonplace in our nation"
+
+**Sources:**
+- [Wikipedia - Killing of Renee Good](https://en.wikipedia.org/wiki/Killing_of_Renee_Good)
+- [Star Tribune - Renee Nicole Good Identified](https://www.startribune.com/she-was-an-amazing-human-being-mother-identifies-woman-shot-killed-by-ice-agent/601559922)
+- [NBC News - Good Was Caring for Neighbors](https://www.nbcnews.com/news/us-news/renee-nicole-good-minneapolis-ice-shooting-victim-caring-neighbor-rcna252901)
+- [Fox News - ICE Shooting Minneapolis](https://www.foxnews.com/us/who-renee-nicole-good-woman-killed-minneapolis-ice-shooting)
+
+---
+
 ### High-Profile Case: Kilmar Abrego Garcia
 
 #### Background
