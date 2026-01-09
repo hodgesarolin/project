@@ -156,6 +156,18 @@ A personal research project exploring current US political actions through histo
 | Deng Xiaoping China | 1978-1989 | Tiananmen; economic transformation | [[china-deng-xiaoping]] |
 | Franjo Tuđman Croatia | 1990-1999 | Operation Storm; Ustasha rehabilitation | [[croatia-tudjman]] |
 
+**Phase 6: Cold War & Modern Gaps**
+| Regime | Era | Key Issues | File |
+|--------|-----|------------|------|
+| Brezhnev USSR | 1964-1982 | Stagnation; Afghanistan; détente | [[soviet-union-brezhnev]] |
+| Paul Biya Cameroon | 1982-present | 42+ years; Anglophone crisis 6K+ killed | [[cameroon-biya]] |
+| Than Shwe Myanmar | 1992-2011 | Saffron Revolution; Nargis 140K dead | [[myanmar-than-shwe]] |
+| Lee Kuan Yew Singapore | 1959-1990 | "Soft authoritarianism"; economic miracle | [[singapore-lee-kuan-yew]] |
+| Syngman Rhee South Korea | 1948-1960 | Bodo League 100-200K; Korean War | [[south-korea-rhee]] |
+| Ho Chi Minh Vietnam | 1945-1969 | Land reform deaths; Vietnam War | [[vietnam-ho-chi-minh]] |
+| Heydar Aliyev Azerbaijan | 1993-2003 | Dynasty founder; oil deals | [[azerbaijan-heydar-aliyev]] |
+| G. Berdimuhamedow Turkmenistan | 2006-2022 | "Arkadag"; Niyazov's dentist-successor | [[turkmenistan-berdimuhamedow]] |
+
 ### In Progress
 - Additional modern regimes
 

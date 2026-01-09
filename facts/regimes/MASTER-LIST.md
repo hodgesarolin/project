@@ -153,7 +153,7 @@ This is the comprehensive inventory of all authoritarian regimes, dictatorships,
 ### Communist Bloc - Europe
 - [ ] **Joseph Stalin** — USSR (continued to 1953)
 - [ ] **Nikita Khrushchev** — USSR (1953-1964)
-- [ ] **Leonid Brezhnev** — USSR (1964-1982)
+- [x] **Leonid Brezhnev** — USSR (1964-1982) → [[soviet-union-brezhnev]]
 - [ ] **Yuri Andropov** — USSR (1982-1984)
 - [ ] **Konstantin Chernenko** — USSR (1984-1985)
 - [x] **Enver Hoxha** — Albania (1944-1985) → [[albania-hoxha]]
@@ -177,7 +177,7 @@ This is the comprehensive inventory of all authoritarian regimes, dictatorships,
 - [ ] **Hua Guofeng** — China (1976-1978)
 - [x] **Deng Xiaoping** — China (1978-1989) → [[china-deng-xiaoping]]
 - [x] **Kim Il-sung** — North Korea (1948-1994) → [[north-korea-kim-dynasty]]
-- [ ] **Ho Chi Minh** — North Vietnam (1945-1969)
+- [x] **Ho Chi Minh** — North Vietnam (1945-1969) → [[vietnam-ho-chi-minh]]
 - [ ] **Lê Duẩn** — Vietnam (1969-1986)
 - [x] **Pol Pot** — Cambodia/Khmer Rouge (1975-1979) → [[cambodia-khmer-rouge]]
 - [ ] **Kaysone Phomvihane** — Laos (1975-1992)
@@ -260,11 +260,11 @@ This is the comprehensive inventory of all authoritarian regimes, dictatorships,
 - [x] **Ferdinand Marcos** — Philippines (1965-1986) → [[philippines-marcos]]
 - [x] **Suharto** — Indonesia (1967-1998) → [[indonesia-suharto]]
 - [x] **Ne Win** — Myanmar/Burma (1962-1988) → [[myanmar-ne-win]]
-- [ ] **Lee Kuan Yew** — Singapore (1959-1990) — *controversial/soft authoritarian*
+- [x] **Lee Kuan Yew** — Singapore (1959-1990) → [[singapore-lee-kuan-yew]]
 - [ ] **Thanom Kittikachorn** — Thailand (1963-1973)
 
 ### South Korea (Authoritarian Period)
-- [ ] **Syngman Rhee** — South Korea (1948-1960)
+- [x] **Syngman Rhee** — South Korea (1948-1960) → [[south-korea-rhee]]
 - [x] **Park Chung-hee** — South Korea (1963-1979) → [[south-korea-park]]
 - [x] **Chun Doo-hwan** — South Korea (1980-1988) → [[south-korea-chun]]
 
@@ -288,10 +288,10 @@ This is the comprehensive inventory of all authoritarian regimes, dictatorships,
 - [x] **Islam Karimov** — Uzbekistan (1991-2016) → [[uzbekistan-karimov]]
 - [ ] **Shavkat Mirziyoyev** — Uzbekistan (2016-present)
 - [x] **Saparmurat Niyazov** — Turkmenistan (1991-2006) → [[turkmenistan-niyazov]]
-- [ ] **Gurbanguly Berdimuhamedow** — Turkmenistan (2006-2022)
+- [x] **Gurbanguly Berdimuhamedow** — Turkmenistan (2006-2022) → [[turkmenistan-berdimuhamedow]]
 - [ ] **Serdar Berdimuhamedow** — Turkmenistan (2022-present)
 - [x] **Emomali Rahmon** — Tajikistan (1992-present) → [[tajikistan-rahmon]]
-- [ ] **Heydar Aliyev** — Azerbaijan (1993-2003)
+- [x] **Heydar Aliyev** — Azerbaijan (1993-2003) → [[azerbaijan-heydar-aliyev]]
 - [x] **Ilham Aliyev** — Azerbaijan (2003-present) → [[azerbaijan-aliyev]]
 
 ### Russia
@@ -316,7 +316,7 @@ This is the comprehensive inventory of all authoritarian regimes, dictatorships,
 - [x] **Yoweri Museveni** — Uganda (1986-present) → [[uganda-museveni]]
 - [x] **Paul Kagame** — Rwanda (2000-present) → [[rwanda-kagame]]
 - [x] **Isaias Afwerki** — Eritrea (1993-present) → [[eritrea-afwerki]]
-- [ ] **Paul Biya** — Cameroon (1982-present)
+- [x] **Paul Biya** — Cameroon (1982-present) → [[cameroon-biya]]
 - [ ] **Denis Sassou Nguesso** — Republic of Congo (1979-1992, 1997-present)
 - [ ] **José Eduardo dos Santos** — Angola (1979-2017)
 - [ ] **Faure Gnassingbé** — Togo (2005-present)
@@ -327,7 +327,7 @@ This is the comprehensive inventory of all authoritarian regimes, dictatorships,
 ### Southeast Asia (Contemporary)
 - [x] **Hun Sen** — Cambodia (1985-2023) → [[cambodia-hun-sen]]
 - [ ] **Hun Manet** — Cambodia (2023-present)
-- [ ] **Than Shwe** — Myanmar (1992-2011)
+- [x] **Than Shwe** — Myanmar (1992-2011) → [[myanmar-than-shwe]]
 - [x] **Min Aung Hlaing** — Myanmar (2021-present) → [[myanmar-min-aung-hlaing]]
 - [x] **Rodrigo Duterte** — Philippines (2016-2022) → [[philippines-duterte]]
 
