@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "foreign-interventions"
             }
+          },
+          {
+            "id": "66668b5d84bfdb4c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,7 +196,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "2821dd855456dcb4",
+  "active": "66668b5d84bfdb4c",
   "lastOpenFiles": [
     "How_Daniel_Can_Help.md",
     "Daniel_Hodges_Professional_Summary.md",

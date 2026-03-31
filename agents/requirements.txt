@@ -1,6 +1,0 @@
-# Research Historian Agent System
-# Core dependency
-claude-agent-sdk>=0.1.0
-
-# Optional: for enhanced async support
-aiofiles>=23.0.0
