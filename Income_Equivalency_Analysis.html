@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Income Equivalency Analysis - Hodges-Arolin Family</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { font-family: 'Segoe UI', system-ui, sans-serif; background: #f8fafc; }
+        .highlight { background: linear-gradient(135deg, #10b981 0%, #059669 100%); }
+    </style>
+</head>
+<body class="p-4 md:p-8">
+    <div class="max-w-5xl mx-auto">
+
+        <header class="bg-slate-800 text-white rounded-lg p-6 mb-8">
+            <h1 class="text-2xl font-bold mb-2">Income Equivalency Analysis</h1>
+            <p class="text-slate-300">How much do you need to earn abroad to maintain your $190K/year lifestyle?</p>
+            <p class="text-sm text-slate-400 mt-2">Prepared for Hodges-Arolin Family | January 2026</p>
+        </header>
+
+        <!-- Key Question -->
+        <div class="bg-blue-50 border-l-4 border-blue-500 p-4 mb-8 rounded-r">
+            <p class="font-semibold text-blue-800">Your Question:</p>
+            <p class="text-blue-700">"If I spend $190K in the US after taxes/insurance/401k, how much would I need to make in these countries to have a similar lifestyle?"</p>
+        </div>
+
+        <!-- US Baseline -->
+        <div class="bg-white rounded-lg shadow-sm p-6 mb-8">
+            <h2 class="text-xl font-bold text-gray-800 mb-4">🇺🇸 Your Current US Situation (Baseline)</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div>
+                    <h3 class="font-semibold text-gray-700 mb-3">Income Breakdown</h3>
+                    <table class="w-full text-sm">
+                        <tr class="border-b"><td class="py-2">Combined Gross Income</td><td class="text-right font-semibold">$315,000</td></tr>
+                        <tr class="border-b"><td class="py-2">Federal + NJ State Tax (~28%)</td><td class="text-right text-red-600">-$88,200</td></tr>
+                        <tr class="border-b"><td class="py-2">Health Insurance (family)</td><td class="text-right text-red-600">-$18,000</td></tr>
+                        <tr class="border-b"><td class="py-2">401k Contributions</td><td class="text-right text-red-600">-$18,000</td></tr>
+                        <tr class="bg-green-50"><td class="py-2 font-semibold">Take-Home / Spending</td><td class="text-right font-bold text-green-700">~$190,000</td></tr>
+                    </table>
+                </div>
+                <div>
+                    <h3 class="font-semibold text-gray-700 mb-3">What $190K Covers in Jersey City</h3>
+                    <ul class="text-sm text-gray-600 space-y-1">
+                        <li>• Housing (mortgage/rent): ~$48,000/yr</li>
+                        <li>• Childcare (3 kids): ~$36,000/yr</li>
+                        <li>• Food & groceries: ~$18,000/yr</li>
+                        <li>• Transportation (2 cars): ~$15,000/yr</li>
+                        <li>• Utilities & insurance: ~$12,000/yr</li>
+                        <li>• Everything else: ~$61,000/yr</li>
+                    </ul>
+                    <p class="text-xs text-gray-500 mt-3">Note: NJ property taxes add ~$12-15K/yr on top of mortgage</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- The Answer Summary -->
+        <div class="highlight text-white rounded-lg p-6 mb-8">
+            <h2 class="text-xl font-bold mb-4">💡 The Bottom Line</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                <div class="bg-white/20 rounded p-4 text-center">
+                    <p class="text-sm opacity-80">🇮🇪 Ireland</p>
+                    <p class="text-2xl font-bold">€185-210K</p>
+                    <p class="text-sm">($200-225K USD)</p>
+                </div>
+                <div class="bg-white/20 rounded p-4 text-center">
+                    <p class="text-sm opacity-80">🇳🇱 Netherlands</p>
+                    <p class="text-2xl font-bold">€155-180K</p>
+                    <p class="text-sm">($165-195K USD)</p>
+                    <p class="text-xs mt-1">With 30% ruling</p>
+                </div>
+                <div class="bg-white/20 rounded p-4 text-center">
+                    <p class="text-sm opacity-80">🇨🇦 Canada (Ontario)</p>
+                    <p class="text-2xl font-bold">C$280-320K</p>
+                    <p class="text-sm">($200-230K USD)</p>
+                </div>
+            </div>
+            <p class="text-sm mt-4 opacity-90"><strong>Key insight:</strong> Netherlands with 30% ruling requires the LOWEST gross income. Ireland and Canada are roughly equivalent to your current US gross.</p>
+        </div>
+
+        <!-- Country Details -->
+
+        <!-- IRELAND -->
+        <div class="bg-white rounded-lg shadow-sm p-6 mb-6">
+            <h2 class="text-xl font-bold text-gray-800 mb-4 flex items-center gap-2">
+                <span class="text-2xl">🇮🇪</span> Ireland (Dublin)
+            </h2>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div>
+                    <h3 class="font-semibold text-gray-700 mb-3">Tax Calculation (2026)</h3>
+                    <table class="w-full text-sm">
+                        <tr class="border-b bg-gray-50"><td class="py-2" colspan="2"><strong>Gross: €200,000 (~$215K USD)</strong></td></tr>
+                        <tr class="border-b"><td class="py-2">Income Tax (20% to €44K, 40% above)</td><td class="text-right text-red-600">-€71,200</td></tr>
+                        <tr class="border-b"><td class="py-2">USC (Universal Social Charge)</td><td class="text-right text-red-600">-€14,300</td></tr>
+                        <tr class="border-b"><td class="py-2">PRSI (4.2%)</td><td class="text-right text-red-600">-€8,400</td></tr>
+                        <tr class="border-b"><td class="py-2">Pension (mandatory from 2026)</td><td class="text-right text-red-600">-€3,000</td></tr>
+                        <tr class="bg-green-50"><td class="py-2 font-semibold">Net Take-Home</td><td class="text-right font-bold text-green-700">~€103,000</td></tr>
+                    </table>
+                    <p class="text-xs text-gray-500 mt-2">Effective tax rate: ~48.5%</p>
+                </div>
+                <div>
+                    <h3 class="font-semibold text-gray-700 mb-3">Cost of Living Adjustments</h3>
+                    <div class="space-y-2 text-sm">
+                        <div class="flex justify-between p-2 bg-green-50 rounded">
+                            <span>Healthcare</span>
+                            <span class="text-green-700 font-semibold">+$18,000 saved</span>
+                        </div>
+                        <div class="flex justify-between p-2 bg-green-50 rounded">
+                            <span>Childcare subsidies</span>
+                            <span class="text-green-700 font-semibold">+$12,000 saved</span>
+                        </div>
+                        <div class="flex justify-between p-2 bg-red-50 rounded">
+                            <span>Housing (Dublin expensive)</span>
+                            <span class="text-red-600 font-semibold">-$6,000 more</span>
+                        </div>
+                        <div class="flex justify-between p-2 bg-green-50 rounded">
+                            <span>No property tax (minimal)</span>
+                            <span class="text-green-700 font-semibold">+$12,000 saved</span>
+                        </div>
+                        <div class="flex justify-between p-2 bg-green-50 rounded">
+                            <span>1 car instead of 2</span>
+                            <span class="text-green-700 font-semibold">+$7,000 saved</span>
+                        </div>
+                        <div class="flex justify-between p-2 bg-amber-50 rounded border-t-2 border-amber-400">
+                            <span class="font-semibold">Net Lifestyle Adjustment</span>
+                            <span class="text-amber-700 font-bold">+$43,000/yr</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mt-4 p-4 bg-emerald-50 rounded border border-emerald-200">
+                <p class="text-sm"><strong>Ireland Bottom Line:</strong> You need €185-210K gross (~$200-225K) to match your US lifestyle. BUT you get free healthcare, subsidized childcare, and no property tax — so €103K net actually buys MORE than $190K in NJ. Your projected combined income of €160-220K is right in the target range.</p>
+            </div>
+        </div>
+
+        <!-- NETHERLANDS -->
+        <div class="bg-white rounded-lg shadow-sm p-6 mb-6">
+            <h2 class="text-xl font-bold text-gray-800 mb-4 flex items-center gap-2">
+                <span class="text-2xl">🇳🇱</span> Netherlands (Amsterdam/Randstad)
+            </h2>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div>
+                    <h3 class="font-semibold text-gray-700 mb-3">Tax Calculation WITH 30% Ruling</h3>
+                    <table class="w-full text-sm">
+                        <tr class="border-b bg-gray-50"><td class="py-2" colspan="2"><strong>Gross: €170,000 (~$183K USD)</strong></td></tr>
+                        <tr class="border-b bg-blue-50"><td class="py-2">30% Tax-Free Allowance</td><td class="text-right text-blue-600">-€51,000 (not taxed)</td></tr>
+                        <tr class="border-b"><td class="py-2">Taxable Income</td><td class="text-right">€119,000</td></tr>
+                        <tr class="border-b"><td class="py-2">Income Tax (37-49.5%)</td><td class="text-right text-red-600">-€47,000</td></tr>
+                        <tr class="border-b"><td class="py-2">Social contributions (in tax)</td><td class="text-right text-gray-500">included</td></tr>
+                        <tr class="bg-green-50"><td class="py-2 font-semibold">Net Take-Home</td><td class="text-right font-bold text-green-700">~€123,000</td></tr>
+                    </table>
+                    <p class="text-xs text-gray-500 mt-2">Effective tax rate with 30% ruling: ~28%</p>
+                    <p class="text-xs text-amber-600 mt-1">⚠️ 30% ruling lasts 5 years, then drops to 27% (2027+)</p>
+                </div>
+                <div>
+                    <h3 class="font-semibold text-gray-700 mb-3">Cost of Living Adjustments</h3>
+                    <div class="space-y-2 text-sm">
+                        <div class="flex justify-between p-2 bg-green-50 rounded">
+                            <span>Healthcare (mandatory insurance)</span>
+                            <span class="text-green-700 font-semibold">+$14,000 saved</span>
+                        </div>
+                        <div class="flex justify-between p-2 bg-green-50 rounded">
+                            <span>Childcare (70-96% subsidized)</span>
+                            <span class="text-green-700 font-semibold">+$28,000 saved</span>
+                        </div>
+                        <div class="flex justify-between p-2 bg-red-50 rounded">
+                            <span>Housing (Amsterdam very high)</span>
+                            <span class="text-red-600 font-semibold">-$12,000 more</span>
+                        </div>
+                        <div class="flex justify-between p-2 bg-green-50 rounded">
+                            <span>No cars needed (bikes + transit)</span>
+                            <span class="text-green-700 font-semibold">+$12,000 saved</span>
+                        </div>
+                        <div class="flex justify-between p-2 bg-green-50 rounded">
+                            <span>Child benefit (kinderbijslag)</span>
+                            <span class="text-green-700 font-semibold">+$3,600/yr</span>
+                        </div>
+                        <div class="flex justify-between p-2 bg-amber-50 rounded border-t-2 border-amber-400">
+                            <span class="font-semibold">Net Lifestyle Adjustment</span>
+                            <span class="text-amber-700 font-bold">+$45,600/yr</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mt-4 p-4 bg-blue-50 rounded border border-blue-200">
+                <p class="text-sm"><strong>Netherlands Bottom Line:</strong> Thanks to the 30% ruling, you only need €155-180K gross (~$165-195K) to match your US lifestyle. This is the LOWEST gross income requirement of all three countries. The massive childcare subsidies (up to 96%) and bike culture dramatically reduce costs. Your projected €140-200K income range works well here.</p>
+            </div>
+
+            <div class="mt-2 p-3 bg-amber-50 rounded border border-amber-200">
+                <p class="text-xs text-amber-800"><strong>⚠️ Important:</strong> The 30% ruling is being reduced to 27% flat starting 2027. Apply before then to lock in 30% for your first years. Also, citizenship path may extend from 5 to 10 years (law pending).</p>
+            </div>
+        </div>
+
+        <!-- CANADA -->
+        <div class="bg-white rounded-lg shadow-sm p-6 mb-6">
+            <h2 class="text-xl font-bold text-gray-800 mb-4 flex items-center gap-2">
+                <span class="text-2xl">🇨🇦</span> Canada (Ontario - Toronto/Ottawa)
+            </h2>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div>
+                    <h3 class="font-semibold text-gray-700 mb-3">Tax Calculation (2026)</h3>
+                    <table class="w-full text-sm">
+                        <tr class="border-b bg-gray-50"><td class="py-2" colspan="2"><strong>Gross: C$300,000 (~$215K USD)</strong></td></tr>
+                        <tr class="border-b"><td class="py-2">Federal Tax (14-33%)</td><td class="text-right text-red-600">-C$62,000</td></tr>
+                        <tr class="border-b"><td class="py-2">Ontario Tax (5-13% + surtax)</td><td class="text-right text-red-600">-C$35,000</td></tr>
+                        <tr class="border-b"><td class="py-2">CPP contributions</td><td class="text-right text-red-600">-C$4,000</td></tr>
+                        <tr class="border-b"><td class="py-2">EI contributions</td><td class="text-right text-red-600">-C$1,000</td></tr>
+                        <tr class="bg-green-50"><td class="py-2 font-semibold">Net Take-Home</td><td class="text-right font-bold text-green-700">~C$198,000</td></tr>
+                    </table>
+                    <p class="text-xs text-gray-500 mt-2">Effective tax rate: ~34% (combined marginal up to 53.5%)</p>
+                </div>
+                <div>
+                    <h3 class="font-semibold text-gray-700 mb-3">Cost of Living Adjustments</h3>
+                    <div class="space-y-2 text-sm">
+                        <div class="flex justify-between p-2 bg-green-50 rounded">
+                            <span>Healthcare (provincial)</span>
+                            <span class="text-green-700 font-semibold">+$18,000 saved</span>
+                        </div>
+                        <div class="flex justify-between p-2 bg-green-50 rounded">
+                            <span>$10/day childcare program</span>
+                            <span class="text-green-700 font-semibold">+$30,000 saved</span>
+                        </div>
+                        <div class="flex justify-between p-2 bg-green-50 rounded">
+                            <span>Housing (Toronto ~10% cheaper)</span>
+                            <span class="text-green-700 font-semibold">+$5,000 saved</span>
+                        </div>
+                        <div class="flex justify-between p-2 bg-red-50 rounded">
+                            <span>Groceries (15% higher)</span>
+                            <span class="text-red-600 font-semibold">-$2,700 more</span>
+                        </div>
+                        <div class="flex justify-between p-2 bg-green-50 rounded">
+                            <span>Canada Child Benefit</span>
+                            <span class="text-green-700 font-semibold">+$4,000/yr</span>
+                        </div>
+                        <div class="flex justify-between p-2 bg-amber-50 rounded border-t-2 border-amber-400">
+                            <span class="font-semibold">Net Lifestyle Adjustment</span>
+                            <span class="text-amber-700 font-bold">+$54,300/yr</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mt-4 p-4 bg-purple-50 rounded border border-purple-200">
+                <p class="text-sm"><strong>Canada Bottom Line:</strong> You need C$280-320K gross (~$200-230K USD) to match your US lifestyle on paper. BUT the $10/day childcare program alone saves you ~$30K/yr compared to US costs. Your projected C$220-280K income is slightly below target, but the benefits narrow the gap significantly.</p>
+            </div>
+        </div>
+
+        <!-- Comparison Table -->
+        <div class="bg-white rounded-lg shadow-sm p-6 mb-8">
+            <h2 class="text-xl font-bold text-gray-800 mb-4">📊 Side-by-Side Comparison</h2>
+
+            <div class="overflow-x-auto">
+                <table class="w-full text-sm">
+                    <thead class="bg-slate-800 text-white">
+                        <tr>
+                            <th class="p-3 text-left">Factor</th>
+                            <th class="p-3 text-center">🇺🇸 US (Current)</th>
+                            <th class="p-3 text-center">🇮🇪 Ireland</th>
+                            <th class="p-3 text-center">🇳🇱 Netherlands</th>
+                            <th class="p-3 text-center">🇨🇦 Canada</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="border-b">
+                            <td class="p-3 font-semibold">Gross Needed (USD)</td>
+                            <td class="p-3 text-center">$315,000</td>
+                            <td class="p-3 text-center">$200-225K</td>
+                            <td class="p-3 text-center bg-green-50 font-bold">$165-195K ✓</td>
+                            <td class="p-3 text-center">$200-230K</td>
+                        </tr>
+                        <tr class="border-b bg-gray-50">
+                            <td class="p-3 font-semibold">Effective Tax Rate</td>
+                            <td class="p-3 text-center">~28%</td>
+                            <td class="p-3 text-center">~48%</td>
+                            <td class="p-3 text-center bg-green-50 font-bold">~28% (w/ ruling)</td>
+                            <td class="p-3 text-center">~34%</td>
+                        </tr>
+                        <tr class="border-b">
+                            <td class="p-3 font-semibold">Healthcare Cost</td>
+                            <td class="p-3 text-center text-red-600">$18,000/yr</td>
+                            <td class="p-3 text-center text-green-600">~$0 (taxes)</td>
+                            <td class="p-3 text-center text-amber-600">~$2,400/yr</td>
+                            <td class="p-3 text-center text-green-600">~$0 (taxes)</td>
+                        </tr>
+                        <tr class="border-b bg-gray-50">
+                            <td class="p-3 font-semibold">Childcare (3 kids)</td>
+                            <td class="p-3 text-center text-red-600">$36,000/yr</td>
+                            <td class="p-3 text-center text-amber-600">$24,000/yr</td>
+                            <td class="p-3 text-center text-green-600">$8,000/yr</td>
+                            <td class="p-3 text-center text-green-600 font-bold">$6,000/yr ✓</td>
+                        </tr>
+                        <tr class="border-b">
+                            <td class="p-3 font-semibold">Property Tax</td>
+                            <td class="p-3 text-center text-red-600">$12-15K/yr</td>
+                            <td class="p-3 text-center text-green-600">~$500/yr</td>
+                            <td class="p-3 text-center text-green-600">~$0 (rent)</td>
+                            <td class="p-3 text-center text-amber-600">$6-8K/yr</td>
+                        </tr>
+                        <tr class="border-b bg-gray-50">
+                            <td class="p-3 font-semibold">Vacation Days</td>
+                            <td class="p-3 text-center">~15 days</td>
+                            <td class="p-3 text-center text-green-600 font-bold">25+ days ✓</td>
+                            <td class="p-3 text-center text-green-600 font-bold">25+ days ✓</td>
+                            <td class="p-3 text-center">15-20 days</td>
+                        </tr>
+                        <tr class="border-b">
+                            <td class="p-3 font-semibold">Your Projected Income</td>
+                            <td class="p-3 text-center">$315K</td>
+                            <td class="p-3 text-center bg-green-50">$170-235K ✓</td>
+                            <td class="p-3 text-center bg-green-50">$150-215K ✓</td>
+                            <td class="p-3 text-center bg-amber-50">$155-200K ⚠️</td>
+                        </tr>
+                        <tr class="bg-slate-100">
+                            <td class="p-3 font-bold">Meets Target?</td>
+                            <td class="p-3 text-center">Baseline</td>
+                            <td class="p-3 text-center text-green-600 font-bold">YES ✓</td>
+                            <td class="p-3 text-center text-green-600 font-bold">YES ✓</td>
+                            <td class="p-3 text-center text-amber-600 font-bold">CLOSE ⚠️</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Key Insights -->
+        <div class="bg-gradient-to-r from-slate-800 to-slate-700 text-white rounded-lg p-6 mb-8">
+            <h2 class="text-xl font-bold mb-4">🎯 Key Insights</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div>
+                    <h3 class="font-semibold text-emerald-400 mb-2">The Math That Matters</h3>
+                    <ul class="text-sm space-y-2">
+                        <li>• <strong>$190K in NJ ≠ $190K in Dublin</strong> — Your money goes further abroad due to social benefits</li>
+                        <li>• <strong>Childcare is the biggest swing:</strong> $30K+ savings in NL/CA vs US</li>
+                        <li>• <strong>Healthcare removes bankruptcy risk</strong> — priceless for family planning</li>
+                        <li>• <strong>Property tax savings:</strong> $12K/yr in Ireland vs NJ</li>
+                    </ul>
+                </div>
+                <div>
+                    <h3 class="font-semibold text-blue-400 mb-2">Hidden Value Not in Numbers</h3>
+                    <ul class="text-sm space-y-2">
+                        <li>• <strong>5-6 weeks vacation</strong> vs 2-3 weeks in US</li>
+                        <li>• <strong>Parental leave:</strong> 6-12 months vs 0-12 weeks</li>
+                        <li>• <strong>Job security:</strong> Much harder to fire workers in EU</li>
+                        <li>• <strong>Political stability:</strong> The whole reason you're doing this</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Recommendation -->
+        <div class="bg-emerald-600 text-white rounded-lg p-6">
+            <h2 class="text-xl font-bold mb-4">✅ Recommendation</h2>
+            <p class="mb-4">Based purely on financial equivalency:</p>
+            <ol class="list-decimal list-inside space-y-2">
+                <li><strong>Netherlands (with 30% ruling)</strong> — Lowest gross income needed, massive childcare savings, but citizenship path uncertain</li>
+                <li><strong>Ireland</strong> — Your projected income exceeds target, fastest EU citizenship (5 years), military neutral</li>
+                <li><strong>Canada</strong> — Slightly below target income, but $10/day childcare closes the gap. Proximity to US is the concern.</li>
+            </ol>
+            <p class="mt-4 text-emerald-100 text-sm">All three options are financially viable for your family. The decision should be based on non-financial factors: political stability, citizenship timeline, and distance from US.</p>
+        </div>
+
+        <!-- Sources -->
+        <div class="mt-8 text-xs text-gray-500">
+            <p><strong>Sources:</strong></p>
+            <ul class="mt-1 space-y-1">
+                <li>• Ireland tax rates: <a href="https://kpmg.com/ie/en/insights/tax/budget-2026/tables.html" class="text-blue-600">KPMG Ireland Budget 2026</a>, <a href="https://www.revenue.ie" class="text-blue-600">Revenue.ie</a></li>
+                <li>• Netherlands tax rates: <a href="https://taxsummaries.pwc.com/netherlands" class="text-blue-600">PWC Netherlands</a>, <a href="https://www.government.nl/topics/income-tax/shortening-30-percent-ruling" class="text-blue-600">Government.nl 30% Ruling</a></li>
+                <li>• Canada tax rates: <a href="https://www.taxtips.ca/taxrates/on.htm" class="text-blue-600">TaxTips.ca Ontario</a>, <a href="https://www.canada.ca/en/revenue-agency" class="text-blue-600">CRA</a></li>
+                <li>• Cost of living: <a href="https://www.numbeo.com" class="text-blue-600">Numbeo</a>, <a href="https://www.expatistan.com" class="text-blue-600">Expatistan</a></li>
+            </ul>
+            <p class="mt-2">Prepared January 2026. Tax laws change frequently — verify with a cross-border tax specialist before making decisions.</p>
+        </div>
+    </div>
+</body>
+</html>

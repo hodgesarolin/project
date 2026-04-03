@@ -32,9 +32,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.11.5"
             }
+          },
+          {
+            "id": "d108fcad969571e2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,7 +208,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "66668b5d84bfdb4c",
+  "active": "d108fcad969571e2",
   "lastOpenFiles": [
     "How_Daniel_Can_Help.md",
     "Daniel_Hodges_Professional_Summary.md",
